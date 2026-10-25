@@ -42,6 +42,11 @@ Oddíl druhý (§§ 5–7) obsahuje základní podmínky výkonu obou kategorií
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 156/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C5934C7DF0F56078C1258507001E5359?openDocument) — 31. 10. 2019, kat. A
+  > „Omezení dlužníka při nakládání s majetkovou podstatou dle § 111 odst. 1 insolvenčního zákona, spočívající v tom, že peněžité závazky vzniklé před zahájením insolvenčního řízení je dlužník oprávněn plnit jen v rozsahu a za podmínek stanovených tímto zákonem, dopadá i na pohledávky z titulu pojistného na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti. Platba pojistného na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti není právním jednáním nutným ke splnění povinností stanovených zvláštními právními předpisy ve smyslu § 111 odst. 2 insolvenčního zákona"
+
 #### Předmět úpravy a transpoziční poznámka (odst. 1)
 
 Odst. 1 vymezuje pět okruhů: podmínky hornické činnosti a činnosti prováděné hornickým způsobem (písm. a), nakládání s výbušninami (písm. b), bezpečný provoz podzemních objektů (písm. c), BOZP, bezpečnost provozu a ochranu pracovního prostředí při činnostech podle písm. a) a b) (písm. d) a organizaci a působnost státní báňské správy (písm. e). Zákon tak spojuje technicko-bezpečnostní úpravu s organizačním zákonem o orgánech dozoru. Vztah k hornímu zákonu č. 44/1988 Sb. je komplementární: horní zákon upravuje ochranu a využití nerostného bohatství (ložiska, dobývací prostory, důlní škody), ZHC způsob a bezpečnost výkonu činností a dozor nad nimi.
@@ -647,6 +652,11 @@ Odborný znalec je garantem nezávislého posouzení stability; ČBÚ jej ustano
 > - d) hlášení závažných událostí a nebezpečných stavů, závažných provozních nehod (havárií), závažných pracovních úrazů a poruch technických zařízení.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 156/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C5934C7DF0F56078C1258507001E5359?openDocument) — 31. 10. 2019, kat. A
+  > „Omezení dlužníka při nakládání s majetkovou podstatou dle § 111 odst. 1 insolvenčního zákona, spočívající v tom, že peněžité závazky vzniklé před zahájením insolvenčního řízení je dlužník oprávněn plnit jen v rozsahu a za podmínek stanovených tímto zákonem, dopadá i na pohledávky z titulu pojistného na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti. Platba pojistného na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti není právním jednáním nutným ke splnění povinností stanovených zvláštními právními předpisy ve smyslu § 111 odst. 2 insolvenčního zákona"
 
 #### Generální povinnost a závodní (odst. 1)
 
